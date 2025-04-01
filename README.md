@@ -3,6 +3,7 @@
 
 
 
+
 # DOORS-Script
 Enhance your Roblox DOORS experience with this powerful script! Automate door interactions, item collection, and more. Fully customizable, efficient, and com
 patible with the latest Roblox updates. Perfect for developers and players alike! 🚪🎮
